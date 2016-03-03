@@ -362,6 +362,18 @@
   deadline: 2016-04-23
   logo: /img/2016winter/hackehs.png
   cover: linear-gradient(#262626,#262626)
+  
+- name: QueensHack
+  description: Queens' first student-run hackathon
+  url: https://queenshack.nyc
+  location: The Historic Falchi Building
+  city: Long Island City, NY
+  type: hs
+  start: 2016-04-23
+  end: 2016-04-24
+  deadline: 2016-04-23
+  logo: /img/2016winter/queenshack.png
+  cover: url(/img/2016winter/qh-cover.jpg)
 
 - name: hackGFS
   description: What will you create?
